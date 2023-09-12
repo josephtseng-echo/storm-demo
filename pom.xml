@@ -19,7 +19,7 @@
         <args4j.version>2.0.29</args4j.version>
         <jackson-databind.version>[2.9.10.7,)</jackson-databind.version>
         <zookeeper.version>[3.4.14,)</zookeeper.version>
-        <drools.version>5.5.0.Final</drools.version>
+        <drools.version>7.69.0.Final</drools.version>
         <gson.version>2.2.4</gson.version>
     </properties>
     <dependencies>
